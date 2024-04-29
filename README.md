@@ -1,6 +1,6 @@
-### My name is Aayuush Suryavanshi
+### My name is Aayush Suryavanshi
 
-####About me
+#### About me
 
 
 <!--
