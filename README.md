@@ -1,7 +1,7 @@
 ### My name is Aayush Suryavanshi
 
 #### About me
-🔭 I'm a second year btech computer science student at bharti vidyapeeth
+🔭 I'm a second year btech computer science student at BVUCOEP,India
 
 <!--
 **boombot98/boombot98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
